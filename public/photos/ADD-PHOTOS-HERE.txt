@@ -1,0 +1,7 @@
+Add your four photos to this folder using these exact filenames:
+- us-main.jpg       = the photo of you both sitting together (white kurta and red burqa)
+- memory-1.jpg      = first additional memory photo
+- memory-2.jpg      = second additional memory photo
+- memory-3.jpg      = third additional memory photo
+
+If your photos are PNG or WEBP, either convert them to JPG or update the matching paths in src/config.js.
